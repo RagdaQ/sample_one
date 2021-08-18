@@ -1,0 +1,64 @@
+.mg-btm10{
+	margin-bottom: 10;
+}
+
+.mg-btm15{
+	margin-bottom: 15;
+}
+
+.mg-btm20{
+	margin-bottom: 20;
+}
+
+.mg-btm50{
+	margin-bottom: 50;
+}
+
+.uppercase{
+	text-transform: uppercase;
+}
+.capitalize{
+	text-transform: capitalize;
+}
+
+.lfloat{
+	float: left;
+}
+
+.main-color{
+	color:#6195FF;
+}
+.backgroundsection{
+	--backgroundsection: #F4F4F4;
+}
+
+.main-backcolor{
+	--background-color: #6195FF;
+}
+
+.txt-grey{
+	color: #868F9B;
+}
+.block{
+	display: block;
+}
+
+.inlineblock{
+	display: inline-block;
+}
+
+.width-30{
+	width: 30%;
+}
+
+.width-50{
+	width: 50%;
+}
+.width-100{
+	width: 100%;
+}
+.mcb{
+	border: 1px solid #6195FF;
+}
+
+
